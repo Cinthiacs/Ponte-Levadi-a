@@ -19,9 +19,13 @@ Compilador em linguagem C:
 
 ```bash
 # clonar repositório
-git clone https://github.com/Cinthiacs/TrabalhoSignos.git
-# Abrir signos.c 
-#Copiar o código e executar em um compilador c++.
+git clone https://github.com/Cinthiacs/Ponte_levadica.git
+
+# Abrir ponte_levadiça
+Copiar o código e executar em uma IDE Arduino.
+
+# Video pitch exemplificando o projeto:
+https://youtu.be/HqbuGtEqYuc
 
 ```
 # Autora
