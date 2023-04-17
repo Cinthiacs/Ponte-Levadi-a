@@ -47,6 +47,5 @@ O tempo de espera de 5 milissegundos após desativar um pino antes de ativar out
 https://youtu.be/HqbuGtEqYuc
 
 
-# Autora
-
+### Autora
 Cinthia Cavalheiro.
