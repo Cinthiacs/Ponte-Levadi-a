@@ -1,6 +1,11 @@
 # Ponte Levadiça.
 Projeto 1° sem Engenharia de Computação.
 
+<div align="center">
+  <img width= "411" alt="IMG_20230202_113442" src="https://github.com/Cinthiacs/Ponte_levadica/blob/main/ponteLevadica.png">
+</div>
+
+
 ## Tema trabalhado: "Princípio de Pascal".
 
 A aplicação consiste em uma pesquisa, onde foi aplicada a lógica de programação em linguagem C, na placa Arduino UNO, desenho técnico, e desenvolvimento do protótipo em miniatura.
@@ -38,22 +43,10 @@ O código verifica a posição atual da ponte através dos sensores de fim de cu
 Os sensores de fim de curso devem ser instalados de forma que sejam acionados quando a ponte estiver na posição totalmente aberta ou totalmente fechada.
 O tempo de espera de 5 milissegundos após desativar um pino antes de ativar outro é necessário para evitar que ambos os pinos sejam ativados ao mesmo tempo e causem danos aos motores.
 
-# Abrir ponte_levadiça
-Copiar o código e executar em uma IDE Arduino.
-
-# Video pitch exemplificando o projeto:
+### Video pitch exemplificando o projeto:
 https://youtu.be/HqbuGtEqYuc
 
 
 # Autora
 
-Cinthia Cavalheiro Silverio.
-
-www.linkedin.com/in/cinthia-cavalheiro-silverio
-
-
-
-
-
-
-
+Cinthia Cavalheiro.
